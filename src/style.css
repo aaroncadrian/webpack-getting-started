@@ -1,4 +1,13 @@
+@font-face {
+  font-family: 'MyFont';
+  src: url('./jost-v3-latin-regular.woff') format('woff'),
+    url('./jost-v3-latin-regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
 .hello {
   color: red;
+  font-family: 'MyFont', sans-serif;
   background: url('./icon.png');
 }
