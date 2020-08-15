@@ -8,6 +8,7 @@
   "scripts": {
     "watch": "webpack --watch",
     "start": "webpack-dev-server --open",
+    "server": "node server.js",
     "build": "webpack"
   },
   "devDependencies": {
