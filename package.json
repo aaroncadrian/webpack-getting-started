@@ -1,7 +1,7 @@
 {
   "name": "webpack-getting-started",
   "version": "1.0.0",
-  "main": "index.js",
+  "private": true,
   "repository": "https://github.com/aaroncadrian/webpack-getting-started",
   "author": "Aaron Adrian <aaroncadrian@gmail.com>",
   "license": "MIT",
