@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/aaroncadrian/webpack-getting-started",
   "author": "Aaron Adrian <aaroncadrian@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
 }
