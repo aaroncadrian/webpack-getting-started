@@ -5,6 +5,9 @@
   "repository": "https://github.com/aaroncadrian/webpack-getting-started",
   "author": "Aaron Adrian <aaroncadrian@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
   "devDependencies": {
     "@types/node": "^14.0.27",
     "webpack": "^4.44.1",
